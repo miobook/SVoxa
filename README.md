@@ -8,7 +8,7 @@
 
 这是声写 SVoxa 的产品说明与用户支持仓库，不包含 App 源代码，软件并非通过此仓库开源。
 
-[官网](https://svoxa.app/zh-hans/) · [Mac App Store](https://apps.apple.com/app/id6782120333?mt=12) · [使用帮助](https://svoxa.app/zh-hans/support/)
+[官网](https://svoxa.app/zh-hans/) · [Mac App Store](https://apps.apple.com/cn/app/svoxa/id6782120333) · [使用帮助](https://svoxa.app/zh-hans/support/)
 
 [快速上手](快速上手.md) · [常见问题](常见问题.md) · [反馈与参与](CONTRIBUTING.md)
 
@@ -57,4 +57,4 @@ Issues 是公开的。请不要提交私人正文、录音、密钥、支付凭�
 
 退款与订阅事务请使用 Apple 提供的相应渠道；本仓库不处理付款。
 
-**[免费开始，用自己的真实任务体验 SVoxa。](https://apps.apple.com/app/id6782120333?mt=12)**
+**[免费开始，用自己的真实任务体验 SVoxa。](https://apps.apple.com/cn/app/svoxa/id6782120333)**
