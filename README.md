@@ -1,36 +1,46 @@
-# 声写 SVoxa
+<p align="center">
+  <img src="素材/声写图标.png" alt="声写 SVoxa" width="96">
+</p>
+<h1 align="center">声写 SVoxa</h1>
+<p align="center"><strong>专为 Mac 打造，让表达从开口开始。</strong></p>
+<p align="center">本地语音输入 · AI 润色 · 音视频转写<br>更轻松地回复消息、撰写邮件、整理想法。</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-13%2B-365F91?style=flat-square" alt="macOS 13 或更高版本">
+  <img src="https://img.shields.io/badge/Mac-Apple_Silicon-365F91?style=flat-square" alt="Apple Silicon Mac">
+  <img src="https://img.shields.io/badge/语音识别-本地处理-365F91?style=flat-square" alt="语音识别在本机完成">
+</p>
+<p align="center"><strong>Mac App Store 免费下载</strong><br>
+  <a href="https://apps.apple.com/cn/app/svoxa/id6782120333">中国大陆商店</a> ·
+  <a href="https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333">美国商店（英文）</a>
+</p>
+<p align="center">
+  <a href="#加入声写交流群">用户交流群</a> · <a href="#邀请体验与测评">测评合作</a> · <a href="输入助手安装.md">输入助手下载</a> · <a href="快速上手.md">快速上手</a> · <a href="https://github.com/miobook/SVoxa/issues">问题反馈</a> · <a href="https://svoxa.app/zh-hans/">官网</a>
+</p>
+<br>
+<p align="center">
+  <a href="素材/听写浮窗.png"><img src="素材/听写浮窗.png" alt="完整浮窗：边说边看文字" width="476"></a>
+</p>
+<p align="center"><strong>完整文字，随时查看。精简电平，轻巧陪伴。</strong></p>
+<p align="center">
+  <img src="素材/电平模式.png" alt="精简电平浮窗" width="56">　
+  <img src="素材/电平复制预览.png" alt="结束后的结果预览与复制" width="197">
+</p>
 
-**专为 Mac 打造，让表达从开口开始。**
+---
 
-声写 SVoxa 是一款本地语音输入工具，支持 AI 润色与音视频转写，帮助你更轻松地回复消息、撰写邮件、整理想法。
-
-<a href="素材/声写菜单.png"><img src="素材/声写菜单.png" alt="声写 SVoxa 菜单界面" width="382"></a>
-
-这是声写 SVoxa 的产品说明与用户支持仓库，不包含 App 源代码，软件并非通过此仓库开源。
-
-**Mac App Store 免费下载：[中国大陆商店](https://apps.apple.com/cn/app/svoxa/id6782120333) · [美国商店（英文）](https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333)**
-
-请在 Mac 上打开与 Apple 账户地区相符的商店。若链接跳到首页或没有定位到应用，请打开 Mac App Store 搜索 **SVoxa**；中国大陆名称为“声写 SVoxa”，美国名称为“SVoxa — Voice to Text”，同一应用 ID 为 `6782120333`。其他地区可在当地商店搜索，是否可下载以当地商店显示为准，无需为了下载切换账户地区。
-
-[官网](https://svoxa.app/zh-hans/) · [使用帮助](https://svoxa.app/zh-hans/support/)
-
-[快速上手](快速上手.md) · [常见问题](常见问题.md) · [反馈与参与](CONTRIBUTING.md)
-
-## 从短句到长段表达
+## 说出想法，从短句到长段表达
 
 回消息、写邮件、给 AI 描述需求——短句可以按住听写键说，松开结束；长段表达可以使用 Pro 免按听写，不必一直按键。
 
 完整浮窗让你边说边看文字，适合梳理文章提纲、说明背景与要求。识别后检查文字，再复制或交付到目标输入框。
 
-<a href="素材/听写浮窗.png"><img src="素材/听写浮窗.png" alt="完整浮窗中的实时听写文字" width="476"></a>
+不需要一直看完整文字时，可以切换到精简电平模式。结束后预览并复制结果，让界面少占一点空间。
 
-## 精简电平模式，让界面少占一点空间
-
-不需要一直看完整文字时，可以切换到电平模式：用小巧的声音反馈陪伴输入，结束后查看预览并复制结果。
-
-| 小巧的麦克风浮窗 | 结果预览与复制 |
-| --- | --- |
-| <img src="素材/电平模式.png" alt="电平模式麦克风圆环" width="56"> | <img src="素材/电平复制预览.png" alt="电平模式的文字预览和复制" width="197"> |
+<details>
+<summary>查看菜单与功能入口</summary>
+<br>
+<img src="素材/声写菜单.png" alt="声写菜单与功能入口" width="382">
+</details>
 
 ## AI 润色，让文字贴近你的用途 · Pro
 
@@ -42,7 +52,7 @@
 
 你可以自选服务与模型。AI 润色会把听写文字与要求发送给所选服务，不发送音频；服务商可能另行收费，费用不包含在 Pro 中。处理后的文字仍需检查。
 
-## 音视频文件转写，留下可整理的文字 · Pro
+## 整理音视频，留下可用的文字 · Pro
 
 把已有的会议录音、采访或视频在 Mac 本机转成文字，省去反复播放、逐句记录的步骤。完成后查看结果，复制正文，或导出 **TXT 文本、SRT／VTT 字幕**。
 
@@ -78,16 +88,35 @@ Pro 包含免按听写、AI 润色、音视频文件转写、保存听写记录�
 
 语音识别和音视频文件转写在 Mac 本机完成。可选 AI 润色需要自行配置并开启，仅向所选服务发送听写文字与润色要求，不发送音频。服务商可能另行收费，不包含在 SVoxa 权益中。
 
-## 反馈问题
+## 邀请体验与测评
 
-可通过本仓库 Issues 提交问题或建议，也可以邮件联系 support@svoxa.app。
+如果你关注 Mac 效率工具、AI 应用或创作工作流，欢迎体验声写 SVoxa，分享你的真实使用感受。
 
-请说明 macOS 版本、SVoxa 版本、使用场景、复现步骤、期望结果和实际结果。自动输入问题请补充目标应用及助手版本。
+我们期待看到它在真实任务中的表现：口述一封邮件、向 AI 讲清需求、整理采访录音，或比较完整浮窗与精简电平模式。好用的地方、遇到的限制和改进建议，都欢迎如实表达。
 
-Issues 是公开的。请不要提交私人正文、录音、密钥、支付凭据或未脱敏日志。截图请先遮挡个人信息。无需提供购买收据证明你有资格反馈。
+**博主、视频创作者与媒体朋友**：如需沟通测评安排、产品资料或 Pro 功能体验，请联系 [support@svoxa.app](mailto:support@svoxa.app)，附上你的主页链接、希望体验的场景及大致时间。具体支持方式沟通确认，不要求正面评价。
 
-退款与订阅事务请使用 Apple 提供的相应渠道；本仓库不处理付款。
+## 加入声写交流群
 
-**免费开始，用自己的真实任务体验 SVoxa。**
+交流使用心得、分享 AI 润色方案，也告诉我们哪些地方还不够顺手。
 
-[中国大陆商店](https://apps.apple.com/cn/app/svoxa/id6782120333) · [美国商店（英文）](https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333)
+**QQ 群：声写 SVoxa 交流 · `340301501`**
+
+[点击加入 QQ 群](https://qm.qq.com/q/KLsTjZtWs8) · [查看入群二维码](https://svoxa.app/zh-hans/support/#community)
+
+邀请链接未打开时，可在 QQ 中搜索群号。问题也可以通过 GitHub Issues 或邮件反馈，无需加群。请勿在群内分享私人正文、录音、密钥或支付凭据。
+
+## 获取帮助与反馈
+
+[快速上手](快速上手.md) · [常见问题](常见问题.md) · [反馈问题或建议](https://github.com/miobook/SVoxa/issues) · [邮件联系](mailto:support@svoxa.app)
+
+商店链接没有定位到应用时，可在 Mac App Store 搜索 **SVoxa**，应用 ID 为 `6782120333`；下载以 Apple 账户所在地区的商店可用性为准。[查看下载说明](快速上手.md)
+
+反馈请提供版本、使用场景与复现步骤。Issues 公开可见，请勿提交私人正文、录音、密钥或支付凭据。[反馈须知](CONTRIBUTING.md)
+
+本仓库提供产品介绍与用户支持，不包含 App 源代码，软件并非通过此仓库开源。退款与订阅事务请通过 Apple 办理。
+
+---
+
+<p align="center"><strong>下一条消息，试着说出来。</strong></p>
+<p align="center"><a href="https://apps.apple.com/cn/app/svoxa/id6782120333">中国大陆商店</a> · <a href="https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333">美国商店（英文）</a></p>
