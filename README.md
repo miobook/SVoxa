@@ -8,7 +8,11 @@
 
 这是声写 SVoxa 的产品说明与用户支持仓库，不包含 App 源代码，软件并非通过此仓库开源。
 
-[官网](https://svoxa.app/zh-hans/) · [Mac App Store](https://apps.apple.com/cn/app/svoxa/id6782120333) · [使用帮助](https://svoxa.app/zh-hans/support/)
+**Mac App Store 免费下载：[中国大陆商店](https://apps.apple.com/cn/app/svoxa/id6782120333) · [美国商店（英文）](https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333)**
+
+请在 Mac 上打开与 Apple 账户地区相符的商店。若链接跳到首页或没有定位到应用，请打开 Mac App Store 搜索 **SVoxa**；中国大陆名称为“声写 SVoxa”，美国名称为“SVoxa — Voice to Text”，同一应用 ID 为 `6782120333`。其他地区可在当地商店搜索，是否可下载以当地商店显示为准，无需为了下载切换账户地区。
+
+[官网](https://svoxa.app/zh-hans/) · [使用帮助](https://svoxa.app/zh-hans/support/)
 
 [快速上手](快速上手.md) · [常见问题](常见问题.md) · [反馈与参与](CONTRIBUTING.md)
 
@@ -57,4 +61,6 @@ Issues 是公开的。请不要提交私人正文、录音、密钥、支付凭�
 
 退款与订阅事务请使用 Apple 提供的相应渠道；本仓库不处理付款。
 
-**[免费开始，用自己的真实任务体验 SVoxa。](https://apps.apple.com/cn/app/svoxa/id6782120333)**
+**免费开始，用自己的真实任务体验 SVoxa。**
+
+[中国大陆商店](https://apps.apple.com/cn/app/svoxa/id6782120333) · [美国商店（英文）](https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333)
