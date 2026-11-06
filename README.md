@@ -105,8 +105,8 @@ Apple Silicon Mac，macOS 13 或更高版本；暂不支持 Intel Mac。
 <a href="https://qm.qq.com/q/KLsTjZtWs8">点击加入 QQ 群</a> · 扫码或搜索群号<br>
 <sub>二维码较小时，点击图片查看大图。无需加群也可通过 Issues 或邮件反馈。</sub>
 </td>
-<td width="170" align="center">
-<a href="素材/QQ群二维码紧凑.png"><img src="素材/QQ群二维码紧凑.png" alt="声写 QQ 群二维码，点击查看大图" width="160"></a>
+<td width="210" align="center">
+<a href="素材/QQ群二维码紧凑.png"><img src="素材/QQ群二维码紧凑.png" alt="声写 QQ 群二维码，点击查看大图" width="200"></a>
 </td>
 </tr>
 </table>
