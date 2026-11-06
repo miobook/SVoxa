@@ -14,7 +14,7 @@
   <a href="https://apps.apple.com/us/app/svoxa-voice-to-text/id6782120333">美国商店（英文）</a>
 </p>
 <p align="center">
-  <a href="#加入声写交流群">用户交流群</a> · <a href="#邀请体验与测评">测评合作</a> · <a href="输入助手安装.md">输入助手下载</a> · <a href="快速上手.md">快速上手</a> · <a href="https://github.com/miobook/SVoxa/issues">问题反馈</a> · <a href="https://svoxa.app/zh-hans/">官网</a>
+  <a href="#加入声写交流群">QQ 交流群</a> · <a href="#邀请体验与测评">测评合作</a> · <a href="输入助手安装.md">输入助手下载</a> · <a href="快速上手.md">快速上手</a> · <a href="https://github.com/miobook/SVoxa/issues">问题反馈</a> · <a href="https://svoxa.app/zh-hans/">官网</a>
 </p>
 <br>
 <p align="center">
@@ -102,7 +102,11 @@ Pro 包含免按听写、AI 润色、音视频文件转写、保存听写记录�
 
 **QQ 群：声写 SVoxa 交流 · `340301501`**
 
-[点击加入 QQ 群](https://qm.qq.com/q/KLsTjZtWs8) · [查看入群二维码](https://svoxa.app/zh-hans/support/#community)
+[点击加入 QQ 群](https://qm.qq.com/q/KLsTjZtWs8)
+
+用手机 QQ 扫描下方二维码，或搜索群号 **340301501**。点击图片可查看原图。
+
+<a href="素材/QQ群二维码.jpg"><img src="素材/QQ群二维码.jpg" alt="声写 SVoxa 交流 QQ 群二维码，群号 340301501" width="320"></a>
 
 邀请链接未打开时，可在 QQ 中搜索群号。问题也可以通过 GitHub Issues 或邮件反馈，无需加群。请勿在群内分享私人正文、录音、密钥或支付凭据。
 
